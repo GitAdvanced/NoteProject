@@ -1,1 +1,2 @@
 # NoteProject
+- create first note
